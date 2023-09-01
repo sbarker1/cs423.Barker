@@ -1,0 +1,7 @@
+C:\Users\erbab\source\repos\Lab02_Folder\Lab02_Folder\bin\Debug\Lab02_Folder.exe.config
+C:\Users\erbab\source\repos\Lab02_Folder\Lab02_Folder\bin\Debug\Lab02_Folder.exe
+C:\Users\erbab\source\repos\Lab02_Folder\Lab02_Folder\bin\Debug\Lab02_Folder.pdb
+C:\Users\erbab\source\repos\Lab02_Folder\Lab02_Folder\obj\Debug\Lab02_Folder.csproj.AssemblyReference.cache
+C:\Users\erbab\source\repos\Lab02_Folder\Lab02_Folder\obj\Debug\Lab02_Folder.csproj.CoreCompileInputs.cache
+C:\Users\erbab\source\repos\Lab02_Folder\Lab02_Folder\obj\Debug\Lab02_Folder.exe
+C:\Users\erbab\source\repos\Lab02_Folder\Lab02_Folder\obj\Debug\Lab02_Folder.pdb
