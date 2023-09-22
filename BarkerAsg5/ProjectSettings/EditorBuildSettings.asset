@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene1_WestLobby.unity
+    guid: d23246e5b7e28ff4e9585cdf8b62bd5d
+  - enabled: 1
+    path: Assets/Scenes/Scene2_NorthWestRoom.unity
+    guid: 09a66a3b5fe76fb458ef26ec6d2edd9f
+  - enabled: 1
+    path: Assets/Scenes/Scene3_NorthEastRoom.unity
+    guid: e9187086ae9c9744f8786175f729397f
+  - enabled: 1
+    path: Assets/Scenes/Scene4_CenterAtrium.unity
+    guid: fef4884fae0a80c418e7ccc99be71e21
+  - enabled: 1
+    path: Assets/Scenes/Scene5_SouthWestRoom.unity
+    guid: fb02447b34bfedd4d9862946b33dc631
+  - enabled: 1
+    path: Assets/Scenes/Scene6_SouthEastRoom.unity
+    guid: 8c11f79bf8c218942bc0d42586978def
+  - enabled: 1
+    path: Assets/Scenes/Scene7_EntireRoom.unity
+    guid: 78e2598dbfecaf7458478172dfa6e40c
+  m_configObjects: {}
